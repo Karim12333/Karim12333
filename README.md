@@ -1,11 +1,11 @@
-<h1 align="center">Hey, I'm Karim 👋</h1>
+<h1>Hey, I'm Karim 👋</h1>
 
-<p align="center">
+<p>
   I’m a <strong>Fullstack Software Engineer</strong> with a strong focus on <strong>frontend and backend development</strong> and <strong>web technologies</strong>. 
   I specialize in building efficient and scalable systems using <strong>Java</strong>, <strong>Python</strong>, and <strong>JavaScript</strong>.
 </p>
 
-<p align="center">
+<p>
   Currently, I'm diving into <strong>mobile development</strong> with <strong>Flutter & Dart</strong>, exploring <strong>AI & Generative AI</strong> with <strong>LLMs</strong>, and sharpening my <strong>Linux & Bash</strong> skills. 
   I'm always eager to learn new technologies and collaborate on innovative projects! 🚀
 </p>
